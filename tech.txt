@@ -1,0 +1,7 @@
+JavaScript and Python, and we are looking to fill roles for a variety of projects including:
+
+Event-driven micro services, and APIs (Django, Flask, Hapi)
+Dynamic web applications (Django, Flask, Backbone.js, Node.js, Hapi)
+Infrastructure development on AWS (EC2, SNS/SQS, Elasticache, RDS [Aurora, MySQL, PostgreSQL], Elasticsearch and many others)
+Deploying, scaling, automating, and monitoring servers in multiple data centers and the cloud (DevOps & SREs)
+Mobile application development for iOS and Android
